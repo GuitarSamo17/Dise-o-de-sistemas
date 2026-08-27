@@ -37,3 +37,4 @@ if __name__ == "__main__":
     bote.mover()
     avion= Avion()
     avion.mover()
+    
