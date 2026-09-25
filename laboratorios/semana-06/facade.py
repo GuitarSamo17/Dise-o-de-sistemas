@@ -9,7 +9,7 @@ class Pago:
 class Envio:
     def crear_envio(self, producto):
         print(f'Preparando el envio del {producto}')
-
+        return true
 #fachada
 class TiendaFacade:
     def __init__(self):
